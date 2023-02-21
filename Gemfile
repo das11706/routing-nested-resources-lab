@@ -7,6 +7,7 @@ gem 'uglifier', '>= 1.3.0'
 gem 'jbuilder', '~> 2.0'
 gem 'sdoc', '~> 0.4.0', group: :doc
 gem 'bootsnap'
+gem 'ffi', '~> 1.9', '>= 1.9.10'
 
 group :development, :test do
   gem 'pry'
